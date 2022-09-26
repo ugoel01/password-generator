@@ -1,0 +1,31 @@
+h2{
+  text-align: center;
+  padding: 10px;
+}
+
+.container-fluid{
+  margin: 70px auto;
+  width: 25%;
+  background-color: #EEEEEE;
+}
+
+.show-pass{
+
+  position: relative;
+  text-align: center;
+  margin: 5px 33.33%;
+  width: 33.33%;
+
+}
+
+.pass-attributes{
+  text-align: right;
+}
+
+.pass-attributes-name{
+  width: 70%;
+}
+
+.buttons{
+  text-align: center;
+}
